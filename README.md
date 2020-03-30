@@ -1,16 +1,11 @@
-React Full Stack MERN Exercise Tracker
+# React Full Stack MERN Exercise Tracker
 
-## To Run
-- Navigate to the backend folder and run nodemon server
-- Run npm start in the root
+## To Run:
+* npm i
+* npm start
 
-## Makes use of
-- ReactJS
-- React Router
-- MongoDB
-- ExpressJS
-- NodeJS
-- Bootstrap
-- Axios
+## Site:
+https://5e49823334f94f567773d0db--frosty-goldwasser-5ce2b8.netlify.com/
 
-**Note: this may not work on your local due to MongoDB whitelisting**
+## Notes:
+* May not work on your local due to MongoDB whitelisting
